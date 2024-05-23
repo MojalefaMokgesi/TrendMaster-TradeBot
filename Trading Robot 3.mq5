@@ -157,22 +157,22 @@ void OnTick()
 // Expert initialization function
 void OnInit()
 {
-    // Initialization code here
+    
 }
 
 // Expert deinitialization function
 void OnDeinit(const int reason)
 {
-    // Deinitialization code here
+    
 }
 
 // Other standard functions
 void OnTrade()
 {
-    // Trade event code here
+   
 }
 
 void OnChartEvent(const int id, const long& lparam, const double& dparam, const string& sparam)
 {
-    // Chart event code here
+    
 }
