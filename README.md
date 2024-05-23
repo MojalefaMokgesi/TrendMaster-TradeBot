@@ -1,5 +1,6 @@
 # TrendMaster-TradeBot
 TrendMaster_TradeBot is a powerful trading algorithm designed to capitalize on trends in financial markets, particularly in forex trading. This automated trading robot utilizes moving averages and key support and resistance levels to identify favorable trade opportunities and execute buy or sell orders accordingly.
+
 Key Features:
 
 Moving Average Analysis: Utilizes fast and slow moving averages to identify trend direction and potential entry points.
@@ -15,7 +16,11 @@ Error Handling: Provides comprehensive error handling to manage potential trade 
 Usage:
 
 Clone the repository to your local machine.
+
 Set up your trading environment and connect to your preferred broker's trading platform.
+
 Adjust input parameters as needed to align with your trading strategy and risk management preferences.
+
 Compile and deploy the trading robot to your trading platform.
+
 Monitor the performance of the TrendMaster_TradeBot and make adjustments as necessary to optimize results.
